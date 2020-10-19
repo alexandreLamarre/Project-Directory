@@ -46,3 +46,7 @@ A directory/classification of my work.
 - [Regiter based Space Invaders Game](https://github.com/alexandreLamarre/Verilog-Space-Invaders) - A Space Invaders game that is coded in verilog with registers, using inputs from an altera board.
 <!--
 ### Data Structures & Algorithms-->
+
+## Research/Academic
+
+- [Prime Rotation Fields](https://github.com/alexandreLamarre/Prime-Rotation-Fields) Web app that visualizes rotating the number line by a certain amount of degress every time it encounters a prime.
